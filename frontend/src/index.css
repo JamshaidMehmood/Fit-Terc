@@ -1,0 +1,43 @@
+/*google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;800&family=VT323&display=swap');
+/*layout*/
+:root
+{
+  --primary:skyblue;
+  --error:red;
+}
+body
+{
+  background-color: whitesmoke;
+  margin: 0;
+  font-family: "Poppins";
+}
+/* header
+{
+  background:#fff ;
+  padding: 15px;
+  margin: 5px;
+  border-radius: 5px;
+}
+header.container
+{
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header a 
+{
+  text-decoration: none;
+  color: #000000ee;
+}
+.pages
+{
+  max-width: 1400px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+ */
